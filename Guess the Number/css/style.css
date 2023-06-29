@@ -1,0 +1,43 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.message {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    text-transform: capitalize;
+
+}
+
+
+
+.scoreBox {
+    border: 2px solid magenta;
+    width: 90px;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+
+}
+
+.input {
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+.check {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    border: 1.5px solid;
+    border-radius: 10px;
+
+}
