@@ -22,5 +22,5 @@ A simple JavaScript game where the player needs to guess a number between 1 and 
 To run the game locally, follow these steps:
 
 1. Clone the repository:
-2. <a href="https://github.com/madabhi/JavaScript/tree/a7faa351a806e633bba8c15f9d0fa6469b50f684/Guess%20the%20Number">Click Here</a>
+2. <a href="https://github.com/madabhi/JavaScript/tree/main/Guess%20the%20Number.git">Click Here</a>
 3. Clone Successful.
