@@ -1,4 +1,5 @@
 # Pig Game for 2 Players - Readme
+Try this game here: https://madabhi.github.io
 
 ## Introduction
 This is a simple implementation of the Pig game for 2 players. The objective of the game is to be the first player to reach a maximum score of 100. The game provides a user-friendly interface with a "New Game" button to start a new game at any time.
